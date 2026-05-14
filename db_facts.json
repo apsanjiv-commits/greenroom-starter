@@ -1,0 +1,18 @@
+{
+  "total_settlements": 537,
+  "deal_counts": {
+    "door": 30,
+    "flat": 185,
+    "percentage_of_gross": 18,
+    "percentage_of_net": 109,
+    "vs": 195
+  },
+  "unsupported_deals": 334,
+  "vs_deals": 195,
+  "standard_vs_deals": 104,
+  "recoup_total": 103,
+  "recoup_disputed": 24,
+  "vs_recoup_disputed": 13,
+  "vs_settlements_with_signoff": 192,
+  "disputed_vs_with_positive_signoff": 8
+}
